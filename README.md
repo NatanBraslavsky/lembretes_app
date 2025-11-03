@@ -11,7 +11,7 @@
 <h2 id="layout">🎨 Layout</h2>
 
 <p align="center">
-    <img src="docs/images/Captura de tela 2025-11-02 224307.png" alt="Image Example">
+    <img src="docs/images/Captura de tela 2025-11-03 000736.png" alt="Image Example">
     <img src="docs/images/Captura de tela 2025-11-02 224215.png" alt="Image Example">
 </p>
 
