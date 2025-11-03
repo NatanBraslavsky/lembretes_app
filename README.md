@@ -1,7 +1,7 @@
 <h1 align="center" style="font-weight: bold;">Sistema de lembretes (CRUD React)</h1>
 
 <p align="center">
-    <b>A fim de facilitar minha rotina diária com organizações de tarefas e aprimorar minhas habilidade em React, realizei um sistema de lembretes totalmente funcional.</b>
+    <b>A fim de facilitar minha rotina diária com organizações de tarefas e aprimorar minhas habilidades em React, realizei um sistema de lembretes totalmente funcional.</b>
 </p>
 
 <p align="center">
