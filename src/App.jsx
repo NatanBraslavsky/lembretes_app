@@ -2,7 +2,7 @@ import {useEffect, useRef, useState} from "react";
 import AddTask from "./components/AddTask/AddTask";
 import ShowTask from "./components/ShowTask/ShowTask";
 import "./style/index.css";
-import PopUpTask from "./components/popUpTask";
+import PopUpTask from "./components/PopUpTask";
 import {LuCircleCheck} from "react-icons/lu";
 
 const App = () => {
