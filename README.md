@@ -17,9 +17,12 @@
 
 <h2 id="technologies">💻 Tecnologias</h2>
 <ul>
-    <li>Frontend - React</li>
-    <li>Versionamento - GitHub</li>
-    <li>Deploy - Vercel</li>
+    <li>Node</li>
+    <li>NPM</li>
+    <li>React</li>
+    <li>React Icons</li>
+    <li>Vite</li>
+    <li>ESLint</li>
 </ul>
 
 <h2 id="funcionalidades">🧠 Funcionalidades</h2>
