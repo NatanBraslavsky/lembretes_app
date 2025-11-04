@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,npm,vite" />
+  </a>
+</p>
 <h1 align="center" style="font-weight: bold;">Sistema de lembretes (CRUD React)</h1>
 
 <p align="center">
